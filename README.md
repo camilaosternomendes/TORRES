@@ -1,5 +1,3 @@
-# TORRES
-
 # Jogo das Torres de Hanoi em C
 Este é um jogo das Torres de Hanoi implementado em C, onde o jogador pode interagir manualmente para resolver o quebra-cabeça lógico. O jogo utiliza cores ANSI para representar os discos em diferentes torres e é executado no terminal.
 
